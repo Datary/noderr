@@ -1,0 +1,2 @@
+# noderr
+NodeJS extended errors
