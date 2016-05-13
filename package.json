@@ -10,6 +10,7 @@
     "log"
   ],
   "dependencies": {
+    "handlebars": "^4.0.5",
     "lodash": "^4.11.1",
     "node-uuid": "^1.4.7"
   },
